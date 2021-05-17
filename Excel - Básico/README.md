@@ -1,7 +1,7 @@
 # Linkedin Learning - Excel Básico
 Este repositório trata do curso de `Excel Básico` via [LinkedIn Learning][lil-course-url].
 
-## Introdução
+## Apresentação
 Esse curso possui uma abordagem focada nas principais ferramentas do Excel na sua versão 2019 e na produtividade de profissionais por meio de execuções, atalhos e facilidades que são ensinadas ao longo das aulas. São desenvolvidas planilhas, análises e execuções em casos semelhantes ao dia a dia de profissionais.
 
 Este repositório contém uma pasta para cada uma das aulas ministradas no curso. Dentro de cada pasta, você encontrará os arquivos exemplos. 
